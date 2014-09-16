@@ -16,7 +16,7 @@ public class Proyectolenhuajes {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("primer programa");
+        System.out.println("primer programa segundo cambio");
     
     
     
